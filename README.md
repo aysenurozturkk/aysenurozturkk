@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aysenur</h1>
-<h3 align="center">Computer Engineering Studuent</h3>
+<h3 align="center">Computer Engineering Student</h3>
 
 - 🌱 I’m currently learning **Java Spring Boot, React**
 
