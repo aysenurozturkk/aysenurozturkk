@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/aysenurozturkk/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  📧 E-posta: [email adresiniz]
+
 </p>
 
 ## 💻 Teknolojiler ve Araçlar
@@ -89,9 +89,3 @@
   </a>
 </p>
 
-## 📊 GitHub İstatistiklerim
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aysenurusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysenurusername&layout=compact&theme=radical" alt="Top Languages" />
-</p>
